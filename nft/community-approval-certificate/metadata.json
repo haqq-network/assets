@@ -1,25 +1,28 @@
  {
-    "animation_url": "https://cryptoacademy.production.haqq.network/haqq_academy.gif",
+    "animation_url": "https://raw.githubusercontent.com/haqq-network/assets/master/nft/community-approval-certificate/cac.gif",
     "attributes": [
         {
-            "display_type": "number",
-            "trait_type": "Seacon",
-            "value": "1"
+            "trait_type": "Halal level approval",
+            "value": "Community"
         },
         {
-            "display_type": "number",
-            "trait_type": "Year",
-            "value": "2024"
+            "trait_type": "Issued on",
+            "value": "HAQQ Network"
         },
         {
-            "display_type": "date",
-            "trait_type": "Issue Date",
-            "value": 1711735161
-        }
+            "trait_type": "Issued by",
+            "value": "Shariah Oracle"
+        },
+        {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 1
+          }
     ],
-    "description": "SBT Certificate of Completion of the HAQQ Crypto Academy",
+    "background_color": "#000000",
+    "description": "Certificate of halal community approval",
     "external_url": "https://islamiccoin.net/academy/",
-    "image": "https://cryptoacademy.production.haqq.network/haqq_academy.png",
-    "image_url": "https://cryptoacademy.production.haqq.network/haqq_academy.png",
-    "name": "HAQQ ACADEMY Certificate"
+    "image": "https://raw.githubusercontent.com/haqq-network/assets/master/nft/community-approval-certificate/cac_2024.png",
+    "image_url": "https://raw.githubusercontent.com/haqq-network/assets/master/nft/community-approval-certificate/cac_2024.png",
+    "name": "Community approval certificate"
 }
