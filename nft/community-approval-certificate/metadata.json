@@ -1,0 +1,25 @@
+ {
+    "animation_url": "https://cryptoacademy.production.haqq.network/haqq_academy.gif",
+    "attributes": [
+        {
+            "display_type": "number",
+            "trait_type": "Seacon",
+            "value": "1"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Year",
+            "value": "2024"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Issue Date",
+            "value": 1711735161
+        }
+    ],
+    "description": "SBT Certificate of Completion of the HAQQ Crypto Academy",
+    "external_url": "https://islamiccoin.net/academy/",
+    "image": "https://cryptoacademy.production.haqq.network/haqq_academy.png",
+    "image_url": "https://cryptoacademy.production.haqq.network/haqq_academy.png",
+    "name": "HAQQ ACADEMY Certificate"
+}
