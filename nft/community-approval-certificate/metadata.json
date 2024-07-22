@@ -2,7 +2,7 @@
     "animation_url": "https://raw.githubusercontent.com/haqq-network/assets/master/nft/community-approval-certificate/cac.gif",
     "attributes": [
         {
-            "trait_type": "Halal level approval",
+            "trait_type": "Level approval",
             "value": "Community"
         },
         {
@@ -20,9 +20,9 @@
           }
     ],
     "background_color": "#000000",
-    "description": "Certificate of halal community approval",
+    "description": "The Haqq Network Community has approved the smart contract to which this SBT belongs. This means that the smart contract is ethically acceptable to the Haqq Community and is allowed to apply for Shariah Board Approval.",
     "external_url": "https://islamiccoin.net/academy/",
     "image": "https://raw.githubusercontent.com/haqq-network/assets/master/nft/community-approval-certificate/cac_2024.png",
     "image_url": "https://raw.githubusercontent.com/haqq-network/assets/master/nft/community-approval-certificate/cac_2024.png",
-    "name": "Community approval certificate"
+    "name": "Community approval"
 }
